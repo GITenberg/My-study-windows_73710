@@ -1,0 +1,54 @@
+_repo: My-study-windows_73710
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lowell, James Russell
+    aliases:
+    - Wilbur, Homer
+    - Meliboeus-Hipponax
+    birthdate: 1819
+    deathdate: 1891
+    gutenberg_agent_id: '456'
+    url: http://www.gutenberg.org/2009/agents/456
+    wikipedia: https://en.wikipedia.org/wiki/James_Russell_Lowell
+description: ''
+gutenberg_issued: '2024-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73710'
+  lccn: '99000066'
+language: en
+pgterms:marc904: https://archive.org/details/mystudywindows0000unse/page/n7/mode/2up
+pgterms:marc905: 20210930222601lowell
+pgterms:marc906: '1871'
+pgterms:marc907: US
+production_note: Charlene Taylor, Chuck Greif and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aBoston :$bHoughton, Mifflin and Company, $c1871, copyright
+  1899.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lincoln, Abraham, 1809-1865'
+- !lcsh 'Birds'
+- !lcsh 'Chaucer, Geoffrey, -1400'
+- !lcsh 'Emerson, Ralph Waldo, 1803-1882'
+- !lcsh 'Thoreau, Henry David, 1817-1862'
+- !lcsh 'Pope, Alexander, 1688-1744'
+- !lcsh 'Carlyle, Thomas, 1795-1881'
+- !lcsh 'Winter'
+- !lcsh 'Swinburne, Algernon Charles, 1837-1909'
+- !lcsh 'American essays -- 19th century'
+- !lcsh 'Quincy, Josiah, 1772-1864'
+- !lcsh 'Percival, James Gates, 1795-1856'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: My garden acquaintance -- A good word for winter -- On a certain
+  condescension in foreigners -- A great public character [Josiah Quincy] -- Carlyle
+  -- Abraham Lincoln -- The life and letters of James Gates Percival -- Thoreau --
+  Swinburne's tragedies -- Chaucer -- Library of old authors -- Emerson, the lecturer
+  -- Pope.
+title: My study windows
+url: http://www.gutenberg.org/ebooks/73710
